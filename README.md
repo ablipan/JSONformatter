@@ -1,4 +1,4 @@
-#A json formatter tools with Electron + Webpack + Vue.js
+#Web dev small tools, with Electron + Webpack + Vue.js
 ![](http://pan-github.oss-cn-beijing.aliyuncs.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202015-10-25%20%E4%B8%8B%E5%8D%884.58.56.png)
 ![](http://pan-github.oss-cn-beijing.aliyuncs.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202015-10-25%20%E4%B8%8B%E5%8D%884.59.01.png)
 ##install
@@ -21,4 +21,4 @@ start electron
 
 ##TODO
 * hot-module-replace do not supported yet!
-* add some language runner,(e.g. es6,html ...)
+* add some other tools(e.g. es6 runner,html runner...)
